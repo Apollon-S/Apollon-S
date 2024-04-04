@@ -7,7 +7,7 @@
 - Começando HTML e CSS
 
 # Tecnologias e ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width = "40" height = "40"/><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fjava-original-a-marca-logo%2F146459&psig=AOvVaw2HuccUwNmObQnIJY5IUUmv&ust=1712321658529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjpwrTNqIUDFQAAAAAdAAAAABAS" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width = "40" height = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width = "40" height = "40"/><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fjava-original-a-marca-logo%2F146459&psig=AOvVaw2HuccUwNmObQnIJY5IUUmv&ust=1712321658529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjpwrTNqIUDFQAAAAAdAAAAABAS](https://icons8.com.br/icon/13679/java)" width = "40" height = "40"/>
           
           
  

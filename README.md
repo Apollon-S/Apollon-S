@@ -3,7 +3,7 @@
 - 👋 Olá Mundo! Eu sou o Matheus Varistelo.
 - 👀 Estou interessado na área de ciência de dados.
 - 🌱 Atualmente, estou aprendendo R.
-- 👍Email de contato: <a href="mailto:matheusvaristelom@gmail.com" target="_blank">Clique aqui</a>
+- 👍 Email de contato: <a href="mailto:matheusvaristelom@gmail.com" target="_blank">Clique aqui</a>
 
 
 # Tecnologias e ferramentas
